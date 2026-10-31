@@ -1,0 +1,6 @@
+{
+  "name": "Outpost Pioneer: Colony Survival & Frontier Defense",
+  "description": "Explore an expansive procedurally generated 3D wilderness, gather resources, build a fortified frontier colony, assign villagers to farming, mining, and defense, and withstand waves of night beasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
